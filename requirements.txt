@@ -1,0 +1,4 @@
+telethon
+asyncio
+sqlite3
+flask
